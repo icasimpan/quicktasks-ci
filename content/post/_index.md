@@ -1,3 +1,3 @@
 ---
-title: Ci
+title: Continuous Integration Tools
 ---
